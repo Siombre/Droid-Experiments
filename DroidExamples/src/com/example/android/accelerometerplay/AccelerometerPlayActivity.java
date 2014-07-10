@@ -47,7 +47,7 @@ import android.view.WindowManager;
  * @see SensorEvent
  * @see Sensor
  */
-
+//commit!
 public class AccelerometerPlayActivity extends Activity {
 
 	private SimulationView mSimulationView;
